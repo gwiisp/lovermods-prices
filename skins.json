@@ -4,7 +4,15 @@
     "Shark Doo Doo": {
       "value": "4b",
       "demand": "HIGH",
-      "season": "Season 3"
-    }
+      "season": "Season 3",
+      "set": ""
+    },
+    {
+    "Shark Doo Doo": {
+      "value": "4b",
+      "demand": "HIGH",
+      "season": "Season 3",
+      "set": ""
+    },
   }
 }
