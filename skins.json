@@ -2,211 +2,205 @@
   "last_updated": "2025-01-20T13:00:00Z",
   "skins":   {
     "DAILY Hat": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "1b",
+      "demand": "MEDIUM",
       "season": "Season 3 and 4",
       "set": "Daily"
     },
     "Daily Sword": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "1b",
+      "demand": "MEDIUM",
       "season": "Season 3 and 4",
       "set": "Daily"
     },
     "BITTER Hat": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Bitter"
     },
     "BITTER Sword": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Bitter"
     },
     "SAVORY Hat": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Savory"
     },
     "SAVORY Sword": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Savory"
     },
     "TART Hat": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "1-2b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Tart"
     },
     "TART Sword": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Tart"
     },
     "TART Pickaxe": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Tart"
     },
     "ZESTY Hat": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Zesty"
     },
     "ZESTY Knockback Lollipop": {
-      "value": "",
+      "value": "6b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Zesty"
     },
     "ZESTY Sword": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Zesty"
     },
     "ZESTY Pickaxe": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Zesty"
     },
-    "SPICY Sword (Jala)": {
-      "value": "",
-      "demand": "HIGH",
-      "season": "Season 3",
-      "set": "Spicy"
-    },
     "SPICY Sword": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "8b (flame) 13b (jala)",
+      "demand": "LOW",
       "season": "Season 3",
       "set": "Spicy"
     },
     "SPICY Pickaxe": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Spicy"
     },
     "SPICY Axe": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Spicy"
     },
     "EASTER Hat": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Easter"
     },
     "EASTER Bunny Ears": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Easter"
     },
     "EASTER Sword": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Easter"
     },
     "Surgical Mask": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Covid"
     },
     "Cotton Swab": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Covid"
     },
     "Miner's Hat": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Mystery"
     },
     "Soap's Stick": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Mystery"
     },
     "MYSTERY Pickaxe": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Mystery"
     },
     "MYSTERY Bow": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2.5b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Mystery"
     },
     "FISHING Hat": {
-      "value": "",
+      "value": "6-7b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Fishing"
     },
     "Fish Skeleton Sword": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Fishing"
     },
     "Hammerhead Shark Pickaxe": {
-      "value": "",
+      "value": "15b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Fishing"
     },
     "Sawtooth Shark Axe": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Fishing"
     },
     "FISHING Rod": {
-      "value": "",
+      "value": "15b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Fishing"
     },
     "ALZHEIMER'S Bandana": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Alzheimer"
     },
     "Pencil Stencil": {
-      "value": "",
+      "value": "5-6b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Alzheimer"
     },
     "Brain Pickaxe": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Alzheimer"
     },
     "Notepad": {
-      "value": "",
+      "value": "5-6b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Alzheimer"
@@ -217,200 +211,200 @@
       "season": "Season 3",
       "set": "Summer"
     },
-    "☀ Summer Cap ☀": {
-      "value": "",
-      "demand": "HIGH",
+    "Summer Cap": {
+      "value": "4-5b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Summer"
     },
     "Kebab Stick": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4-5b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Summer"
     },
     "Anchor Pickaxe": {
-      "value": "",
+      "value": "8b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Summer"
     },
-    "☀ Toy Shovel ☀": {
-      "value": "",
-      "demand": "HIGH",
+    "Toy Shovel": {
+      "value": "3b",
+      "demand": "LOW",
       "season": "Season 3",
       "set": "Summer"
     },
     "STEAMPUNK Top Hat": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Steampunk"
     },
     "STEAMPUNK Sword": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Steampunk"
     },
     "STEAMPUNK Pickaxe": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Steampunk"
     },
     "STEAMPUNK Axe": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Steampunk"
     },
     "STEAMPUNK Bow": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Steampunk"
     },
     "FUTURE Glasses": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Future"
     },
     "FUTURE Sword": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Future"
     },
     "FUTURE Pickaxe": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Future"
     },
     "FUTURE Axe": {
-      "value": "",
-      "demand": "HIGH",
-      "season": "Season 3",
-      "set": "Future"
-    },
-    "FUTURE Lightsaber": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Future"
     },
     "FUTURE Shield": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Future"
     },
     "GREEK Helmet": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "LOW",
       "season": "Season 3",
       "set": "Greek"
     },
     "GREEK Sword": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4b",
+      "demand": "LOW",
       "season": "Season 3",
       "set": "Greek"
     },
     "GREEK Pickaxe": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Greek"
     },
     "GREEK Axe": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Greek"
     },
     "Lover Hat": {
-      "value": "",
+      "value": "3-4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
     "Lover Sword": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
     "Lover Pickaxe": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
     "Lover Axe": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
     "Lover Shovel": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
     "Lover Bow": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
     "LoverFella Plushie": {
-      "value": "",
+      "value": "3b",
+      "demand": "HIGH",
+      "season": "Season 3",
+      "set": "Merch (Lover)"
+    },
+    "Lover Shield": {
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
     "VIP Crown": {
-      "value": "",
+      "value": "4-5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
     "VIP Lancer": {
-      "value": "",
+      "value": "3-4b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
     "VIP Miner": {
-      "value": "",
+      "value": "7-8b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
     "VIP Greataxe": {
-      "value": "",
+      "value": "6b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
     "VIP Barricade": {
-      "value": "",
+      "value": "15b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
     "VIP Plaque": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
     "VIP Panda": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
