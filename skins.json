@@ -842,7 +842,7 @@
       "set": "Ocean"
     },
     "The Void Sword": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
@@ -1123,7 +1123,7 @@
       "season": "Season 4",
       "set": "Rainbow"
     },
-    "Rainbow Ostrich": {
+    "Rainbow Ostrish": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
@@ -1238,211 +1238,229 @@
       "set": "Party"
     },
     "Ice Cream Cone Hat": {
-      "value": "",
+      "value": "3-4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "Sunhat": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "French Fry Sword": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "Burger Axe": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "Sandcastle Bow": {
-      "value": "",
+      "value": "3-4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "Kebab Rod": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "SurfBoard Shield": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "Beach Chair": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "Flamingo Pool Floatie": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "Grill": {
-      "value": "",
+      "value": "2b",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Summer Sparkler #1": {
+      "value": "4b",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Summer Sparkler #2": {
+      "value": "12-14b",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Summer Sparkler #3": {
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
     },
     "King Tut's Mask": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4-5b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Staff of Uset": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Heru's Dagger": {
-      "value": "",
+      "value": "8b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Khepri's Blade": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4b",
+      "demand": "LOW",
       "season": "Season 4",
       "set": "Ancient"
     },
     "ANCIENT Pickaxe": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Ham-mer": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3-4b",
+      "demand": "LOW",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Hecate's Scythe": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Bow of Herne": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "LOW",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Wings of Undying": {
-      "value": "",
+      "value": "12b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Sarcophagus": {
-      "value": "",
+      "value": "5-6b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Chicken Jar": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Dog Jar": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Sheep Jar": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
-      "set": "Ancient"
+      "set": "Ancient" 
     },
     "Villager Jar": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Ancient Scroll (Purple)": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Bee Beanie": {
-      "value": "",
+      "value": "6b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween"
     },
     "Dragon Beanie": {
-      "value": "",
+      "value": "8-10b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween"
     },
     "Zombie Beanie": {
-      "value": "",
+      "value": "6b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween"
     },
     "Skeleton Beanie": {
-      "value": "",
+      "value": "6b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween"
     },
     "Warrior's Light": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "7b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Halloween"
     },
     "Ender Staff": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "6b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Halloween"
     },
     "Witch's Broomstick": {
-      "value": "",
+      "value": "7b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween"
     },
     "Jack O' Lantern Rod": {
-      "value": "",
+      "value": "5-6b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween"
     },
     "Spider Queen Bow": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Halloween"
     },
     "Grave Robber's Shield": {
-      "value": "",
+      "value": "6b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween"
@@ -1574,73 +1592,73 @@
       "set": "Halloween Food Seller"
     },
     "EASTER Egg #1": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #2": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #3": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #4": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #5": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #6": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #7": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #8": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #9": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #10": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "EASTER Egg #11": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Throwback"
     },
     "Harp Bow": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Event"
