@@ -1212,6 +1212,432 @@
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
+    },
+    "Party Ribbon #1": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Party"
+    },
+    "Party Ribbon #2": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Party"
+    },
+    "Party Ribbon #3": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Party"
+    },
+    "Ice Cream Cone Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Sunhat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "French Fry Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Burger Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Sandcastle Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Kebab Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "SurfBoard Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Beach Chair": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Flamingo Pool Floatie": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "Grill": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Summer"
+    },
+    "King Tut's Mask": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Staff of Uset": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Heru's Dagger": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Khepri's Blade": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "ANCIENT Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Ham-mer": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Hecate's Scythe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Bow of Herne": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Wings of Undying": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Sarcophagus": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Chicken Jar": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Dog Jar": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Sheep Jar": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Villager Jar": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Ancient Scroll (Purple)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Ancient"
+    },
+    "Bee Beanie": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Dragon Beanie": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Zombie Beanie": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Skeleton Beanie": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Warrior's Light": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Ender Staff": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Witch's Broomstick": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Jack O' Lantern Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Spider Queen Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Grave Robber's Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween"
+    },
+    "Boo-Berry Punch": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Drink Vendor"
+    },
+    "Haunt Chocolate": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Drink Vendor"
+    },
+    "Creepy-Crawly Fizz": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Drink Vendor"
+    },
+    "Pumpkin Spice Latte": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Drink Vendor"
+    },
+    "Apple Cider": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Drink Vendor"
+    },
+    "Bat Wing Shake": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Drink Vendor"
+    },
+    "Hanging Pumpkin": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Decoration Merchant"
+    },
+    "Witch's Cauldron": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Decoration Merchant"
+    },
+    "Windowsill Candles": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Decoration Merchant"
+    },
+    "Goodie Bag": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Decoration Merchant"
+    },
+    "Voodoo Doll": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Decoration Merchant"
+    },
+    "Skull": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Decoration Merchant"
+    },
+    "Creepy Eyed Chandelier": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Decoration Merchant"
+    },
+    "Purple Potion": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Decoration Merchant"
+    },
+    "Green Potion": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Decoration Merchant"
+    },
+    "Devil's Spiced Apple Pie": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Food Seller"
+    },
+    "Halloween Candy": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Food Seller"
+    },
+    "Dragonfly Sushi": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Food Seller"
+    },
+    "Spider Candy Apple": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Food Seller"
+    },
+    "Eye Candy Apple": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Food Seller"
+    },
+    "Bat Candy Apple": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Halloween Food Seller"
+    },
+    "EASTER Egg #1": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #2": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #3": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #4": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #5": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #6": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #7": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #8": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #9": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #10": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "EASTER Egg #11": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Throwback"
+    },
+    "Harp Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Event"
     }
   }
 }
