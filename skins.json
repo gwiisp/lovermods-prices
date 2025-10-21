@@ -464,187 +464,187 @@
       "set": "Halloween"
     },
     "Fall's Pet": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
     "Roasting Stick": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4b",
+      "demand": "MEDIUM",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
     "Corn Pickaxe": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
     "Sun Destroyer": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
     "Flaming Hoe": {
-      "value": "",
+      "value": "6b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
     "Fall's Defense": {
-      "value": "",
+      "value": "7b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
     "VANILLA Hat": {
-      "value": "",
+      "value": "0.5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Vanilla"
     },
     "VANILLA Sword": {
-      "value": "",
+      "value": "0.5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Vanilla"
     },
     "VANILLA Pickaxe": {
-      "value": "",
+      "value": "0.5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Vanilla"
     },
     "VANILLA Axe": {
-      "value": "",
+      "value": "0.5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Vanilla"
     },
     "STRAWBERRY Helmet": {
-      "value": "",
+      "value": "1b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Strawberry"
     },
     "STRAWBERRY Sword": {
-      "value": "",
+      "value": "1b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Strawberry"
     },
     "STRAWBERRY Pickaxe": {
-      "value": "",
+      "value": "1b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Strawberry"
     },
     "STRAWBERRY Axe": {
-      "value": "",
+      "value": "1b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Strawberry"
     },
     "CHOCOLATE Helmet": {
-      "value": "",
+      "value": "1.5-2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Chocolate"
     },
     "CHOCOLATE Sword": {
-      "value": "",
+      "value": "1.5-2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Chocolate"
     },
     "CHOCOLATE Pickaxe": {
-      "value": "",
+      "value": "1.5-2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Chocolate"
     },
     "CHOCOLATE Axe": {
-      "value": "",
+      "value": "1.5-2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Chocolate"
     },
     "CARAMEL Helmet": {
-      "value": "",
+      "value": "4-5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Caramel"
     },
     "CARAMEL Sword": {
-      "value": "",
+      "value": "3-4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Caramel"
     },
     "CARAMEL Pickaxe": {
-      "value": "",
+      "value": "4-5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Caramel"
     },
     "CARAMEL Axe": {
-      "value": "",
+      "value": "3-4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Caramel"
     },
     "MINT Helmet": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Mint"
     },
     "MINT Sword": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Mint"
     },
     "MINT Pickaxe": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Mint"
     },
     "MINT Axe": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Mint"
     },
     "HOLIDAY Antlers": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
     },
     "Jack Frost's Sword": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
     },
     "HOLIDAY Pickaxe": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
     },
     "SnowFlake Axe": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
     },
     "Ginger Bread Shovel": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
@@ -680,79 +680,79 @@
       "set": "Valentines"
     },
     "Leprechaun Hat": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
     "Shamrock Shades": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
     "Coin Crown": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
     "Rainbow Sword": {
-      "value": "",
+      "value": "7b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
     "St. Patrick's Axe": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
     "St. Patrick's Bow": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
     "St. Patrick's Day": {
-      "value": "",
+      "value": "10b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
     "Basket O' Eggs": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
     "EASTER Helmet": {
-      "value": "",
+      "value": "4-5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
     "EASTER Sword": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
     "EASTER Pickaxe": {
-      "value": "",
+      "value": "4-5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
     "EASTER Axe": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
     "EASTER Bow": {
-      "value": "",
+      "value": "3-4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
