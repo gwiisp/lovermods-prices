@@ -295,6 +295,12 @@
       "season": "Season 3",
       "set": "Future"
     },
+    "FUTURE Lightsaber": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 3",
+      "set": "Future"
+    },
     "FUTURE Shield": {
       "value": "",
       "demand": "HIGH",
@@ -415,7 +421,7 @@
       "season": "Season 3",
       "set": "Halloween"
     },
-    "☠ Evil's Docter ☠": {
+    "☠ Evil's Doctor ☠": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
@@ -433,7 +439,7 @@
       "season": "Season 3",
       "set": "Halloween"
     },
-    "☠ Docter's Remedy ☠": {
+    "☠ Doctor's Remedy ☠": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
