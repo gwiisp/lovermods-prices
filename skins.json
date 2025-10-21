@@ -302,1036 +302,888 @@
       "season": "Season 3",
       "set": "Future"
     },
-    {
     "GREEK Helmet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Greek"
     },
-    {
     "GREEK Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Greek"
     },
-    {
     "GREEK Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Greek"
     },
-    {
     "GREEK Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Greek"
     },
-    {
     "Lover Hat": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
-    {
     "Lover Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
-    {
     "Lover Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
-    {
     "Lover Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
-    {
     "Lover Shovel": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
-    {
     "Lover Bow": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
-    {
     "LoverFella Plushie": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Merch (Lover)"
     },
-    {
     "VIP Crown": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
-    {
     "VIP Lancer": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
-    {
     "VIP Miner": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
-    {
     "VIP Greataxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
-    {
     "VIP Barricade": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
-    {
     "VIP Plaque": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
-    {
     "VIP Panda": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
-    {
     "Midnight's Pet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Halloween"
     },
-    {
     "Evil's Docter": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Halloween"
     },
-    {
     "Nearly Headless": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Halloween"
     },
-    {
     "Death's Scythe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Halloween"
     },
-    {
     "Docter's Remedy": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Halloween"
     },
-    {
     "Soul Reaver": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Halloween"
     },
-    {
     "Grave Digger": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Halloween"
     },
-    {
     "Chord of Vengeance": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Halloween"
     },
-    {
     "Fall's Pet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
-    {
     "Roasting Stick": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
-    {
     "Corn Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
-    {
     "Sun Destroyer": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
-    {
     "Flaming Hoe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
-    {
     "Fall's Defense": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "Harvest (Fall)"
     },
-    {
     "VANILLA Hat": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Vanilla"
     },
-    {
     "VANILLA Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Vanilla"
     },
-    {
     "VANILLA Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Vanilla"
     },
-    {
     "VANILLA Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Vanilla"
     },
-    {
     "STRAWBERRY Helmet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Strawberry"
     },
-    {
     "STRAWBERRY Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Strawberry"
     },
-    {
     "STRAWBERRY Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Strawberry"
     },
-    {
     "STRAWBERRY Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Strawberry"
     },
-    {
     "CHOCOLATE Helmet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Chocolate"
     },
-    {
     "CHOCOLATE Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Chocolate"
     },
-    {
     "CHOCOLATE Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Chocolate"
     },
-    {
     "CHOCOLATE Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Chocolate"
     },
-    {
     "CARAMEL Helmet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Caramel"
     },
-    {
     "CARAMEL Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Caramel"
     },
-    {
     "CARAMEL Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Caramel"
     },
-    {
     "CARAMEL Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Caramel"
     },
-    {
     "MINT Helmet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Mint"
     },
-    {
     "MINT Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Mint"
     },
-    {
     "MINT Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Mint"
     },
-    {
     "MINT Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Mint"
     },
-    {
     "HOLIDAY Antlers": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
     },
-    {
     "Jack Frost's Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
     },
-    {
     "HOLIDAY Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
     },
-    {
     "SnowFlake Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
     },
-    {
     "Ginger Bread Shovel": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Holiday"
     },
-    {
     "Love is Greatsword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
     },
-    {
     "Cupid's Bow": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
     },
-    {
     "Box o' Chocolates": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
     },
-    {
     "Bunch o' Roses": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
     },
-    {
     "Love Potion": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
     },
-    {
     "Leprechaun Hat": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
-    {
     "Shamrock Shades": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
-    {
     "Coin Crown": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
-    {
     "Rainbow Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
-    {
     "St. Patrick's Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
-    {
     "St. Patrick's Bow": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
-    {
     "St. Patrick's Day": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
-    {
     "Basket O' Eggs": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
-    {
     "EASTER Helmet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
-    {
     "EASTER Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
-    {
     "EASTER Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
-    {
     "EASTER Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
-    {
     "EASTER Bow": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Easter"
     },
-    {
     "OCEAN Octopus Helmet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Scuba Goggles": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Staff": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN PufferFish Mace": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Shovel": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Squid": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Crab": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Crab": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Shell Shield": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Shield": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "OCEAN Shark Plush": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
-    {
     "The Void Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Eta Carinae": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Nebulae Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Enceladus": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Alnair": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Shooting Star Rod": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Ganymede": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Planetary Globe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Star Potion": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Sweet Dreams Potion": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Space Painting": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Moon Light": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Sun Flower Cookie": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Space Cakes": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "Melting Space Rug": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    {
     "VIP Crown": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP Tiara": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP Wings": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP Shield": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP ZachDoll": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP LavaPool": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP IsaacPotion": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP NoUwU": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP UwU Allowed": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP Lovers Elixir": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP SoapBar": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP Crafting Table": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP Cloud Potion": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP Furnace": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP LavaCake": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "VIP Shelve": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
-    {
     "Rainbow Bee": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Hat": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Hat": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Crown": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Headband": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Iridescent Wig": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Pride Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Iris Wand": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Prismatic Staff": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Bi The Sea": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Peace Shield": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Parrot": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Teddy Bear": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "Rainbow Ostrish": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
-    {
     "PARTY Helmet": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Balloon Hat": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Bottle Hat": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Sword": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Confetti Blaster": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Pickaxe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Axe": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Shovel": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Balloons": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Jukebox": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
-    {
     "PARTY Blower": {
       "value": "",
       "demand": "HIGH",
