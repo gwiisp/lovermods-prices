@@ -5035,11 +5035,47 @@
       "season": "Season 6",
       "set": "Hacked"
     },
+    "New Years Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "New Year's"
+    },
+    "New Years Festive Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "New Year's"
+    },
+    "New Years Festive Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "New Year's"
+    },
+    "New Years Festive Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "New Year's"
+    },
+    "New Years Festive Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "New Year's"
+    },
+    "New Years Festive Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "New Year's"
+    },
     "Green Arcade Machine": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 6",
-      "set": "New Year's NPC"
+      "set": "New Years NPC"
     },
     "Orange Arcade Machine": {
       "value": "",
@@ -5106,6 +5142,60 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "New Year's NPC"
+    },
+    "Music Halo": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Music"
+    },
+    "Keyboard Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Music"
+    },
+    "La Cucaracha": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Music"
+    },
+    "Rockin' Guitar Swors": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Music"
+    },
+    "Music Box Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Music"
+    },
+    "Clarinet Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Music"
+    },
+    "Ukelele Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Music"
+    },
+    "Trom-bow-n": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Music"
+    },
+    "Sheet Music Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Music"
     },
     "Gramophone": {
       "value": "",
