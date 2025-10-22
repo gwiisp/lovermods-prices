@@ -5256,6 +5256,204 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Music NPC"
+    },
+    "Aether Helmet": {
+      "value": "(2 skins with the same name)",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Aether Realms"
+    },
+    "Aether Sword": {
+      "value": "(2 skins with the same name)",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Aether Realms"
+    },
+    "Aether Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Aether Realms"
+    },
+    "Aether Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Aether Realms"
+    },
+    "Aether Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Aether Realms"
+    },
+    "Aether Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Aether Realms"
+    },
+    "Aether Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Aether Realms"
+    },
+    "Aether Fishing Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Aether Realms"
+    },
+    "T-Rex Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dino"
+    },
+    "Volcano Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dino"
+    },
+    "T-Rex Broadsword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dino"
+    },
+    "Brontosaurus Fishing Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dino"
+    },
+    "Raptor Claw Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dino"
+    },
+    "Triceratops Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dino"
+    },
+    "Pterodactyl Wings": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dino"
+    },
+    "Ankylosaur Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dino"
+    },
+    "xHatter's Top Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland"
+    },
+    "The Blue Caterpillar Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland"
+    },
+    "White Rabbit Clock Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland"
+    },
+    "Pocketwatch Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland"
+    },
+    "Chesire Cat Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland"
+    },
+    "Queen of Hearts": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland"
+    },
+    "Flamingo Croquet Mallet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland"
+    },
+    "Mad Hatter Fella": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
+    },
+    "Ayihana the Queen of Hearts": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
+    },
+    "Right Card Soldier": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
+    },
+    "Left Card Soldier": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
+    },
+    "Mini Rabbit Clock": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
+    },
+    "Rabbit Hole": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
+    },
+    "Eat and Drink Me": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
+    },
+    "Tea Set": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
+    },
+    "Mystic Mushroom": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
+    },
+    "Chessboard Floor Mat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Wonderland NPC"
     }
   }
 }
