@@ -4297,7 +4297,7 @@
       "season": "Season 5",
       "set": "Spooktober"
     },
-    "Witch Docter Tophat": {
+    "Witch Doctor Tophat": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 5",
@@ -4554,6 +4554,102 @@
       "demand": "HIGH",
       "season": "Season 5",
       "set": "Aquarium NPC"
+    },
+    "Snowy Scrooge Mask": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Frozen Wasteland Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Polar Bear Hooded Scarf": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Black Ice Guard": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Northern Lights Halo": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Broken Ice Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Pinecone Mace": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Right Grannie's Knitted Mittens": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Left Grannie's Knitted Mittens": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Polar Bear Mitten": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Winter Solstice"
+    },
+    "Snow Globe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 6",
+      "set": "Winter Solstice NPC and New Year's NPC"
+    },
+    "Snowman Mug": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 6",
+      "set": "Winter Solstice NPC and New Year's NPC"
+    },
+    "Present Mug": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 6",
+      "set": "Winter Solstice NPC and New Year's NPC"
+    },
+    "Stocking Mug": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 6",
+      "set": "Winter Solstice NPC and New Year's NPC"
+    },
+    "Santa Mug": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 6",
+      "set": "Winter Solstice NPC and New Year's NPC"
+    },
+    "Tree Mug": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 6",
+      "set": "Winter Solstice NPC and New Year's NPC"
     }
   }
 }
