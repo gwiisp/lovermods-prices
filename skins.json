@@ -6060,6 +6060,174 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Masquerade Ball NPC"
+    },
+    "AUTUMNAL ANTLERS": {
+      "value": "(spot and reg have same name)",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "SPOTLIGHT MUSHROOM PICKAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "JUST A RAKE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "SUNFLOWER SHIELD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "CROW BOW": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "CRAZY ROD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "ACORN SHOVEL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "MUSHROOM PICKAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "CINNAMON ROLL AXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "SQUIRREL SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "TOADSTOOL HAT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn"
+    },
+    "Cozy Fella Bobblehead": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Cozy Ayihana Bobblehead": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Scented Cinnamon Roll Candles": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Scented candles": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Mixed herbs and shrooms": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Jam jars": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Live, Laugh, Love-rfella": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Log stack Buddies": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Leaf rug": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Playful Bundle of Leaves": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Knitted Ottoman with Cat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Knitted Purple Ottoman": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Knitted Cyan Ottoman": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Knitted Red Ottoman": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Knitted Orange Ottoman": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
+    },
+    "Knitted Green Ottoman": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cozy Autumn NPC"
     }
   }
 }
