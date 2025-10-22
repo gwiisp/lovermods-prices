@@ -6228,6 +6228,372 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Cozy Autumn NPC"
+    },
+    "SPOTLIGHT CHRISTMAS TREE SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "SPOTLIGHT AUTUMNAL ANTLERS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "HOLIDAY WREATH SHIELD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "GINGERBREAD PICKAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "REINDEER ANTLERS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "SANTA'S RUCKSACK ROD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "ORANGE CINNAMON AXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "SANTA HAT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "PEPPERMINT SHEARS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "LONG NOSE RUDOLPH": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "JUST A SNOW SHOVEL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "CHRISTMAS TREE SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "GIANT ROASTED CHICKEN": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "FLUFFY REINDEER HAT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "ELF HAT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter"
+    },
+    "PENGUIN BUDDY": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter Bundle"
+    },
+    "LITTLE SNOWMAN BUDDY": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter Bundle"
+    },
+    "BABY DEER BUDDY": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter Bundle"
+    },
+    "TEDDY BEAR BUDDY": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter Bundle"
+    },
+    "SLEEPING BABY DEER": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter Bundle"
+    },
+    "TEDDY BEAR ARMCHAIR": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter Bundle"
+    },
+    "SNOWMAN DECOR": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter Bundle"
+    },
+    "WINTER WINDOW": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter Bundle"
+    },
+    "HOLIDAY RUG": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter Bundle"
+    },
+    "Santa LoverFella": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Elf Ayihana": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Plate of Milk and Cookies (LF)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Plate of Milk and Cookies (Ayi)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Advent Calendar": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Festive Bells": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Box of Candy Canes": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Cookie Dough": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Cookie Tin": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Eggnog": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Festive Fireplace": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Gingerbread House": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Gingerbread Hot Chocolate": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Tray of Gingerbread Men": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Ice Skates": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "String Lights (Ceiling)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "String Lights (Wall)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Mistletoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "North Pole Sign": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Nutcracker Mug": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Cozy Rocking Chair": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Chibiya's Stocking": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Coal Filled Stocking": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Druid & Mod's Stocking": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Jazzy's Stocking": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Glitch's Stocking": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Present Filled Stocking": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Spoopsies' Stocking": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Tin's Stocking": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Festive Wreath 1": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Festive Wreath 2": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Festive Wreath 3": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Festive Wreath 4": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Gray Rotund Reindeer": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "White Rotuned Reindeer": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Brown Rotuned Reindeer": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
+    },
+    "Red Rotuned Reindeer": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Comfy Winter NPC"
     }
   }
 }
