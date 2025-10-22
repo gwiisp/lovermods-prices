@@ -3000,6 +3000,18 @@
       "demand": "HIGH",
       "season": "Season 5",
       "set": "Fruit"
+    },
+    "BatFella Beanie": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Custom Merch Halloween"
+    },
+    "Poseidon Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Poseidon"
     }
   }
 }
