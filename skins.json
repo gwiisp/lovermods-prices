@@ -3004,49 +3004,115 @@
     "BatFella Beanie": {
       "value": "",
       "demand": "HIGH",
-      "season": "Season 5",
+      "season": "Season 8",
       "set": "Custom Merch Halloween"
     },
     "POSEIDON AXE": {
       "value": "",
       "demand": "HIGH",
-      "season": "Season 5",
+      "season": "Season 7",
       "set": "Poseidon"
     },
     "POSEIDON TRIDENT": {
       "value": "",
       "demand": "HIGH",
-      "season": "Season 5",
+      "season": "Season 7",
       "set": "Poseidon"
     },
     "POSEIDON SHOVEL": {
       "value": "",
       "demand": "HIGH",
-      "season": "Season 5",
+      "season": "Season 7",
       "set": "Poseidon"
     },
     "POSEIDON HOE": {
       "value": "",
       "demand": "HIGH",
-      "season": "Season 5",
+      "season": "Season 7",
       "set": "Poseidon"
     },
     "POSEIDON SWORD": {
       "value": "",
       "demand": "HIGH",
-      "season": "Season 5",
+      "season": "Season 7",
       "set": "Poseidon"
     },
     "POSEIDON PICKAXE": {
       "value": "",
       "demand": "HIGH",
-      "season": "Season 5",
+      "season": "Season 7",
       "set": "Poseidon"
     },
     "POSEIDON CROWN": {
       "value": "",
       "demand": "HIGH",
-      "season": "Season 5",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "Couch Right": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "Couch Right with Pillow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "Couch Middle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "Couch Middle with Pillow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "Couch Left": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "Couch Left with Pillow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "Couch Corner": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "POSEIDON CHESTPLATE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "POSEIDON LEGGINGS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "POSEIDON BOOTS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "POSEIDON HELMET": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
       "set": "Poseidon"
     }
   }
