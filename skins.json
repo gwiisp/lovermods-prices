@@ -1662,6 +1662,1344 @@
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Event"
+    },
+    "Daily Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Daily"
+    },
+    "Daily Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Daily"
+    },
+    "Poop Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Daily"
+    },
+    "Nature Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Daily"
+    },
+    "Azure Greatsword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Daily"
+    },
+    "Azure Sabresword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Daily"
+    },
+    "Azure Shortsword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Daily"
+    },
+    "Bludgeon": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Daily"
+    },
+    "Daily Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Daily"
+    },
+    "Tribal Hatchet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Broadaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Primitive Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Half-Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Longsword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Primitive Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Flint Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Skull Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Tribal Spade": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Bone Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Flint Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Tribal Toothed Blade": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Workbench": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Water Pail": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Vine (Orange Buds)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Trashcan": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Table": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Stone Bench": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Snail": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Ducks (Family)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Ducks (Piggy Back)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Cup of Coffee": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Potted Bush": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Book": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Bronze"
+    },
+    "Revolution Greatsword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Bone Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Flint Dagger": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Electric Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Broadsword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Chaos Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Mask": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Duel Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Jadded Spade": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Hood": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Feathered Cap": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Revolution Flint Pick": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Workbench (Full)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Table (2 Stools)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Vines (Red Buds)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Vines (Blue Buds)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Side Table": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Sunken Spade": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Rug (Red)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Giant Flower": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Giant Flower (Leafless)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Ducks (Mother & Ducklings)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Silver"
+    },
+    "Cybertron Light Dagger": {
+      "value": "(2 of them with the same name)",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Neon Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Omniaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Hardened Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Scythe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Holo Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Elongated Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Space Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron cutlass": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Visor": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Light Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Flat Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Cybertron Gas Mask": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Table (4 Stools)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Side Table (Full)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Rug (White)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Picture Frame (LoverFella)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Lamp Post": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Wooden Chair": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Park Bench": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Gold"
+    },
+    "Frosthardt": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Frostbite War Hammer": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Crystalline Ice Pick": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Snowball Scooper": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Icingdeath Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Ice-Sickle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Night Vision Candle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Regeneration Candle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Levitation Candle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Snowglobe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Regifted Coffee Maker": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 7",
+      "set": "Holiday and Nice"
+    },
+    "Scent Diffuser": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday"
+    },
+    "Confetti Rug": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "New Year's Gold Balloons": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "New Year's Purple Balloons": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Red Fireworks Paintings": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Purple Fireworks Painting": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Fireworks Painting": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Gold Fireworks Paintings": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Large Icecicles": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Small Icecicles": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "SnowyFella": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Christmas Stockings": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Christmas Tree": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Winter Tree": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Red Gifts": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Purple Gifts": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Blue Gifts": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Green GIfts": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Orange GIfts": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Assortment of Gifts": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Holiday NPC"
+    },
+    "Peppermint Tea": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 7",
+      "set": "Regifted Coffee Maker"
+    },
+    "Snowman Cocoa": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 7",
+      "set": "Regifted Coffee Maker"
+    },
+    "Eggnog": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 7",
+      "set": "Regifted Coffee Maker"
+    },
+    "VIP Golden Visage": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "VIP Golden Sword": {
+      "value": "(TWO WITH THE SAME NAME, winged and non winged)",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "V.I.P Golden Mattock": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "VIP Golden Cleaver": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "VIP Golden Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "VIP Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "VIP Osmosis Water": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "VIP Golden Candelabra": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "Jar of Fireflies": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "Big Boi GHOSTS Beta Bowl!!!!!!!!": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "Luxury Booster Vial": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "Luxury Sparkling Grape Juice Decanter": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "VIP Display Shelf": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "VIP Golden Throne": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "VIP (1)"
+    },
+    "Hermes' Test": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Excalibur": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Hammer of Hephaestus": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Hydra Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Demeter's Staff": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Circes' Staff": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Harpe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Heracles' Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Aegis' Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Cap of Darkness": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Dwarven Forager": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Justice's Blindfold": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Bident": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Apollo's Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Shield of Ajax": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Halo": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "HEROIC Magma-Forged Cap of Darkness": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology"
+    },
+    "Cauldron of the Dagda": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Pomegranate Juice": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Water from the Fountain of Youth": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Merlin's Spellbook": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Fairy Dust in a Bottle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Genie Lamp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Dusty Book Pile": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Philosophers Stone": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Potion Shelf": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Inchor": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Olive Wreath": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Hanging Dried Herbs": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Father Times Hourglass": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Mermaid Tears in a bottle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Mythology NPC"
+    },
+    "Love Me Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Not Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Not Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Not Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Not Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Not Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Love Me Not Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Guard Your Heart Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Fur Ever Friend (Cat)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Fur Ever Friend (Frog)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Fur Ever Friend (Puppy)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not"
+    },
+    "Heart Balloon": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Loneliness Potion": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Love Me Potion": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Broken Hearts String of Lights": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Hearts String of Lights": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "String of Hearts": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Propaganda Poster": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Valentines Poster": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "LoverFella Neon Light": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Bouquet of Flowers": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Forever Flower": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Loving Cactus": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "The Love Me, Love Me Not NPC"
+    },
+    "Purple Axolotl Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Pink Axolotl Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Gold Axolotl Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Blue Axolotl Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Luck Dragon Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Luck Dragon Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Luck Red Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Lucky Red Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Lucky Red Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Lucky Horseshoe Magnet Rod (Cry)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Jade Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Jade Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Jade Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Jade Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Jade Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Garden Gnome Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Lucky Fishing Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Red Mushroom Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella"
+    },
+    "Potion: Dragon Blood": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Decor: Chunk of Jade": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Decor: Lucky Tacklebox": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Decor: Lucky Horseshoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Potion: Essence of Luck": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Decor: Rubber Duck": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Decor: Potted Four Leaf Clover": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Decor: Lucky Cat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Potion: Clover Juice": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Decor: Large Red Mushroom": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Luck Of The Fella NPC"
+    },
+    "Peachy Glasses": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Fruit Skewer": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "DragonFruit Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Fruit Slices Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Tropical Fruit Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Grapevine Pruning Hook": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Pomegranate Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Starfruit Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Watermelon Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Potion: Fruit Smoothie": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Potion: Fruit Bomb!": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
+    },
+    "Strawberry Milk Tea": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Fruit"
     }
   }
 }
