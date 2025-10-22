@@ -934,8 +934,8 @@
     "VIP Crown": {
       "value": "",
       "demand": "HIGH",
-      "season": "Season 4",
-      "set": "VIP"
+      "season": "Season 4 and 5",
+      "set": "VIP and VIP (2)"
     },
     "VIP Tiara": {
       "value": "",
@@ -4224,6 +4224,54 @@
       "demand": "HIGH",
       "season": "Season 5",
       "set": "VIP (2) NPC"
+    },
+    "Sushi Dragon": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Foodie"
+    },
+    "Fried Chicken Mace": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5 and 8",
+      "set": "Foodie and Vault"
+    },
+    "Taco Party Pick": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Foodie"
+    },
+    "Sunny Side Shovel": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Foodie"
+    },
+    "Cheesecake Hoe": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Foodie"
+    },
+    "Fondue Rod": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 5 and 8",
+      "set": "Foodie and Vault"
+    },
+    "Meatball Slingshot": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Foodie"
+    },
+    "Pizza Shield": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Foodie"
     }
   }
 }
