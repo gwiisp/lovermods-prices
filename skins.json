@@ -4026,6 +4026,60 @@
       "demand": "HIGH",
       "season": "Season 5",
       "set": "Skulk NPC"
+    },
+    "Glass o' Refreshment": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Quenching"
+    },
+    "Loopy Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Quenching"
+    },
+    "Slushie Mining Machine": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Quenching"
+    },
+    "Root Beer Float Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Quenching"
+    },
+    "Ice Scoper Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Quenching"
+    },
+    "Tea Master's Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Quenching"
+    },
+    "Soda Machine Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Quenching"
+    },
+    "Tropical Punch Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Quenching"
+    },
+    "Boba Bow": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Quenching"
     }
   }
 }
