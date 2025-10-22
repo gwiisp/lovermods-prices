@@ -3114,6 +3114,192 @@
       "demand": "HIGH",
       "season": "Season 7",
       "set": "Poseidon"
+    },
+    "Cursed Dagger": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Gemstone Circlet of Enchanting": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Magic Mushroom Staff": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Summoner's Whip": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Crystal Antlers": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Runic Halo": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Ancient Bejeweled Trident": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Astral Sorcery Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Cracked Mana Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Glass Staff of Breaking": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Dark Eternal Fire Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Magic Storm Orb": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Magic Life Orb": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Magic Frost Orb": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Magic Fire Orb": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Eye of Medusa Runestone": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Sleeping Spell Scroll": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    },
+    "Mount Grimoire": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic"
+    }
+    "Potion: Scroll of Rejuvenation": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Witch Rat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Pile of Scrolls": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Brown Mushroom": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Magic Lectern": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Magic Shelf": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Eternal Bread": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Owl": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Crystal Ball": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Red Mushrooms": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Pixie Dust Book": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Magic Lantern": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
+    },
+    "Magic Cabinet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Magic NPC"
     }
   }
 }
