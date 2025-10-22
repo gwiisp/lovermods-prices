@@ -3720,6 +3720,306 @@
       "demand": "HIGH",
       "season": "Season 5",
       "set": "Farmer NPC"
+    },
+    "Pirate Captain Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "hEARTIES bANDANA": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "Polly the Pirate Parrot": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "Cutlass": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "Treasure Hunter's Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "Buccaneers' Battle Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "THE Hook": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "The Hoard": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "Ship Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "Port-able Cannon": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "The Kraken Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "Hand Scythe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate"
+    },
+    "Treasure Chest": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate NPC"
+    },
+    "Barrel of Treasure": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate NPC"
+    },
+    "Decorative Crates": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate NPC"
+    },
+    "Ship Wheel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate NPC"
+    },
+    "Pirate Flag": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate NPC"
+    },
+    "Telescope": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Pirate NPC"
+    },
+    "Warrior Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion"
+    },
+    "Spatha": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion"
+    },
+    "Cursed Spatha": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion"
+    },
+    "Golden Laurels": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion"
+    },
+    "Roman Rose Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion"
+    },
+    "Scutum": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion"
+    },
+    "Pilum": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion"
+    },
+    "Archeologists Brush": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion"
+    },
+    "Temple Ruins Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion"
+    },
+    "Mini Colosseum": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion NPC"
+    },
+    "Trojan Horse": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion NPC"
+    },
+    "Bowl of Fruit": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion NPC"
+    },
+    "Half Body Marble Statue": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion NPC"
+    },
+    "Full Body Marble Statue": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion NPC"
+    },
+    "People Vase": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion NPC"
+    },
+    "Lover Vase": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion NPC"
+    },
+    "Horse Vase": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion NPC"
+    },
+    "Sundial": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Legion NPC"
+    },
+    "Warden Horns": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk"
+    },
+    "Glare Companion": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk"
+    },
+    "Warden Bone Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk"
+    },
+    "Allay Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk"
+    },
+    "Copper Golem Hammer": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk"
+    },
+    "Skulk Collector": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk"
+    },
+    "Skulk Mimic Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk"
+    },
+    "Darks Friendship Token": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk"
+    },
+    "Skulk Chest": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk NPC"
+    },
+    "Mini Warden": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk NPC"
+    },
+    "Skulk Lamp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk NPC"
+    },
+    "Skulk Vines": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk NPC"
+    },
+    "Skulk Candelabra": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk NPC"
+    },
+    "Skulk Candle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Skulk NPC"
     }
   }
 }
