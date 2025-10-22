@@ -3582,6 +3582,144 @@
       "demand": "HIGH",
       "season": "Season 5",
       "set": "Candy"
+    },
+    "Apple Bee Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "20 Gallon Cowboy Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "Farmer's Straw Hat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "Scarecrow Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "Steaming Nasty Mattock": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "Orchard Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "Sunflower Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "Hot Potat-Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "Bee Gun": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "Watering Can": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer"
+    },
+    "Apple Cider": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Patch of Manure": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Bucket of Milk": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Grow Light": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Ol' Rocker Grandpa's Chair": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Hay Bale (Small Rectangular)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Feeding Trough": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Tray of Seedlings": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Hay Bale (Large Round)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Egg Incubator": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Bucket of Water": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Banjo": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
+    },
+    "Meerkat Milk": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Farmer NPC"
     }
   }
 }
