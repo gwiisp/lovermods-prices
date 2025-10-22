@@ -3300,6 +3300,60 @@
       "demand": "HIGH",
       "season": "Season 5",
       "set": "Magic NPC"
+    },
+    "Purge Mask #1": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Purge"
+    },
+    "Purge Mask #2": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Purge"
+    },
+    "Purge Mask #3": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Purge"
+    },
+    "Purge Mask #4": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Purge"
+    },
+    "Purge Mask #5": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Purge"
+    },
+    "Purge Mask #6": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Purge"
+    },
+    "Purge Mask #7": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Purge"
+    },
+    "Purge Mask #8": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Purge"
+    },
+    "Purge Mask #9": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 4",
+      "set": "Purge"
     }
   }
 }
