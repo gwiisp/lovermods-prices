@@ -4470,6 +4470,90 @@
       "demand": "HIGH",
       "season": "Season 5",
       "set": "Spooktober NPC"
+    },
+    "Air Bubble Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium"
+    },
+    "Manta Ray Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium"
+    },
+    "Hermit Crab Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium"
+    },
+    "Sea Shell Scythe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium"
+    },
+    "Electric Eel Slingshot": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium"
+    },
+    "Goldenfish Halo": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium"
+    },
+    "Urchin Spine Pick": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium"
+    },
+    "Squid Pike": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium"
+    },
+    "Green Coral": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium NPC"
+    },
+    "Purple Coral": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium NPC"
+    },
+    "Red Coral": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium NPC"
+    },
+    "Blue Coral": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium NPC"
+    },
+    "Jellyfish Decor": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium NPC"
+    },
+    "Goldfish Tank": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Aquarium NPC"
     }
   }
 }
