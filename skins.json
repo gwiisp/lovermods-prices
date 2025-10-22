@@ -5454,6 +5454,222 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Wonderland NPC"
+    },
+    "Waste Barrel Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste"
+    },
+    "Sewer Sentient Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste"
+    },
+    "Acid Jar Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste"
+    },
+    "Radioactive Snake Battle Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste"
+    },
+    "Leaky Pipe Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste"
+    },
+    "Ratt King Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste"
+    },
+    "Rat Gas Mask": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste"
+    },
+    "Hazmat Zach": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste NPC"
+    },
+    "Hazmat Ayihana": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste NPC"
+    },
+    "Geiger Counter": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste NPC"
+    },
+    "Mutated Rat": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste NPC"
+    },
+    "Vat of Acid": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste NPC"
+    },
+    "Manhole Cover": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste NPC"
+    },
+    "Toxic Chemical": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste NPC"
+    },
+    "Bunker Door": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste NPC"
+    },
+    "Caution Barricade": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Toxic Waste NPC"
+    },
+    "LOVERFAM FOOTBALL HELMET": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports"
+    },
+    "BOUNCING SOCCER BALL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports"
+    },
+    "BASEBALL BAT SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports"
+    },
+    "TENNIS RACKET AXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports"
+    },
+    "BASKETBALL HOOP PICKAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports"
+    },
+    "HOCKEY STICK HOE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports"
+    },
+    "LACROSSE SHOVEL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports"
+    },
+    "PAINTBALL GUN BOW": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports"
+    },
+    "BULLSEYE SHIELD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports"
+    },
+    "Zach Sports Bobblehead": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "Ayihana Sports Bobblehead": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "Chessboard": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "Basketball Hoop": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "American Football Goal": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "Soccer Goal": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "Moving Archery Target": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "Loverfella Jersey": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "Winner Podium": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "Foam Hand": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
+    },
+    "Walls of Balls": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sports NPC"
     }
   }
 }
