@@ -3354,6 +3354,126 @@
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Purge"
+    },
+    "Overgrowth Glaive": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Treetop Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Lunar Moth Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Ink Cap": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Morningstar Halo": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Sandstorm shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Wildflower Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Poison Ivy Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Bleeding Hearts Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Legendary Lightning Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature"
+    },
+    "Dandelion Tea": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
+    },
+    "Bottle of Wind": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
+    },
+    "Golden Dung Beetle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
+    },
+    "Storm Cloud": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
+    },
+    "Moth Lantern": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
+    },
+    "Bonsai Tree": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
+    },
+    "Blooming Succulent": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
+    },
+    "YUMMY BOBA": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
+    },
+    "Flower Seed Packet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
+    },
+    "Geyser": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 5",
+      "set": "Nature NPC"
     }
   }
 }
