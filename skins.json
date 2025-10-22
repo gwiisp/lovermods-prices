@@ -6594,6 +6594,60 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Comfy Winter NPC"
+    },
+    "VIP Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP"
+    },
+    "VIP Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP"
+    },
+    "VIP Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP"
+    },
+    "VIP Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP"
+    },
+    "VIP Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP"
+    },
+    "VIP Toilet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP"
+    },
+    "VIP Cup": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP"
+    },
+    "VIP Crest": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP"
+    },
+    "VIP Chain": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP"
     }
   }
 }
