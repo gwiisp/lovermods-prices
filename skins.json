@@ -4740,6 +4740,300 @@
       "demand": "HIGH",
       "season": "Season 5",
       "set": "Technoblade"
+    },
+    "Vote Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and 7",
+      "set": "Vote"
+    },
+    "Vote Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and 7",
+      "set": "Vote"
+    },
+    "SPOTLIGHT HEAVENLY WINGS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Vote"
+    },
+    "SPOTLIGHT CELESTIAL WINGS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Vote"
+    },
+    "SPOTLIGHT PAW-ERFUL SABER": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Vote"
+    },
+    "SPOTLIGHT BIBLICALLY ACCURATE PICKAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Vote"
+    },
+    "SPOTLIGHT FAITY TIARA WINGS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Vote"
+    },
+    "SPOTLIGHT SOLFORGE WARAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Vote"
+    },
+    "SPOTLIGHT HEROIC PICKAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Daily"
+    },
+    "SPOTLIGHT TROLLFELLA BUDDY": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Daily"
+    },
+    "SPOTLIGHT FAIRY AXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Daily"
+    },
+    "SPOTLIGHT DRAGON'S FANG": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Daily"
+    },
+    "SPOTLIGHT HOTDOG ROD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Daily"
+    },
+    "8-Bit Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "8-Bit"
+    },
+    "8-Bit Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "8-Bit"
+    },
+    "8-Bit Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "8-Bit"
+    },
+    "8-Bit Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "8-Bit"
+    },
+    "8-Bit Exclusive": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "8-Bit"
+    },
+    "Cyb3rp1nk Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cyb3rp1nk"
+    },
+    "Cyb3rp1nk Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cyb3rp1nk"
+    },
+    "Cyb3rp1nk Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cyb3rp1nk"
+    },
+    "Cyb3rp1nk Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cyb3rp1nk"
+    },
+    "HACKED Mystical Rabbit Clock Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cyb3rp1nk"
+    },
+    "Hacked Hacked VR Headset": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Cyb3rp1nk"
+    },
+    "Arcade Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Arcade"
+    },
+    "Arcade Swords": {
+      "value": "(Spot and regular are the same name)",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Arcade"
+    },
+    "Arcade Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Arcade"
+    },
+    "Arcade Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Arcade"
+    },
+    "Arcade Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Arcade"
+    },
+    "Arcade Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Arcade"
+    },
+    "Arcade Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Arcade"
+    },
+    "Spy Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Spy"
+    },
+    "Spy Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Spy"
+    },
+    "Spy Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Spy"
+    },
+    "Spy Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Spy"
+    },
+    "Spy Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Spy"
+    },
+    "Spy Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Spy"
+    },
+    "Spy Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Spy"
+    },
+    "Spy Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Spy"
+    },
+    "Heroic Spy Axe": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Spy"
+    },
+    "Hacked Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hacked"
+    },
+    "Hacked Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hacked"
+    },
+    "Hacked Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hacked"
+    },
+    "Hacked Shield": {
+      "value": "N/A",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hacked"
+    },
+    "Hacked Helmet": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hacked"
+    },
+    "Hacked Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hacked"
+    },
+    "Hacked Crossbow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hacked"
+    },
+    "Hacked Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hacked"
+    },
+    "Hacked Shove": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hacked"
     }
   }
 }
