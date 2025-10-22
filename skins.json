@@ -5670,6 +5670,240 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Sports NPC"
+    },
+    "UCHIWA FAN": {
+      "value": "(multiple variants with same name)",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival"
+    },
+    "TAKOYAKI HAMMER": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival"
+    },
+    "GOLDFISH SPIRIT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival"
+    },
+    "PAPER LANTERN SHIELD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival"
+    },
+    "RAMUNE PICKAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival"
+    },
+    "Katana Stand": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival Bundle"
+    },
+    "CURSED KOBITO BLADE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival Bundle"
+    },
+    "RED ONI MASK": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival Bundle"
+    },
+    "Candied Apple": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival Vendor"
+    },
+    "Yakisoba": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival Vendor"
+    },
+    "Takoyaki": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival Vendor"
+    },
+    "Taiyaki": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival Vendor"
+    },
+    "Festival Zach Plush": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival NPC"
+    },
+    "Festival Ayihana Plush": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival NPC"
+    },
+    "Lucky Cat Fish Bowl": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival NPC"
+    },
+    "Blue Sky Windchime": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival NPC"
+    },
+    "Green Landscape Windchime": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival NPC"
+    },
+    "Pink Dream Windchime": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Summer Festival NPC"
+    },
+    "ACOUSTIC AXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming"
+    },
+    "ERROR 404 HOE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming"
+    },
+    "HAND CANNON 3000": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming"
+    },
+    "GAME CARTRIDGE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming"
+    },
+    "RETRO PICKAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming"
+    },
+    "8-BIT BLADE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming"
+    },
+    "HP BAR HAT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming"
+    },
+    "LoverFella Bobblehead(retro one, same name as diff skin)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Ayihana Bobblehead(retro one, same name as diff skin)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Player 1": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Player 2": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Gold Coin": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Game Over Sign": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "+1UP Sign": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Retro Posters": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "LFES": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Retro Cup": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Unidentified Pink Flying Object": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Spinning Unidentified Pink Flying Object": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Dance Pad": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
+    },
+    "Press Start": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Retro Gaming NPC"
     }
   }
 }
