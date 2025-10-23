@@ -758,487 +758,469 @@
       "set": "Easter"
     },
     "OCEAN Octopus Helmet": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Scuba Goggles": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "HIGH",  	
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Sword": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Staff": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN PufferFish Mace": {
-      "value": "",
+      "value": "2.5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Pickaxe": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Axe": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Shovel": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Squid": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Crab": {
-      "value": "",
-      "demand": "HIGH",
-      "season": "Season 4",
-      "set": "Ocean"
-    },
-    "OCEAN Crab": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Shell Shield": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Shield": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "OCEAN Shark Plush": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ocean"
     },
     "The Void Sword": {
-      "value": "4b",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Eta Carinae": {
-      "value": "",
+      "value": "3-4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Nebulae Axe": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Enceladus": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Alnair": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Shooting Star Rod": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Ganymede": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Planetary Globe": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Star Potion": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Sweet Dreams Potion": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Space Painting": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Moon Light": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Galaxy"
     },
-    "Sun Flower Cookie": {
-      "value": "",
-      "demand": "HIGH",
+    "Sun Flower MEDIUM": {
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Space Cakes": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "Melting Space Rug": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Galaxy"
     },
     "VIP Crown": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
-      "season": "Season 4 and 5",
-      "set": "VIP and VIP (2)"
+      "season": "Season 4",
+      "set": "VIP"
     },
     "VIP Tiara": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP Wings": {
-      "value": "",
+      "value": "10b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP Sword": {
-      "value": "",
+      "value": "15b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP Shield": {
-      "value": "",
+      "value": "15b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP ZachDoll": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP LavaPool": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP IsaacPotion": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP NoUwU": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP UwU Allowed": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP Lovers Elixir": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP SoapBar": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP Crafting Table": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP Cloud Potion": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP Furnace": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP LavaCake": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "VIP Shelve": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "VIP"
     },
     "Rainbow Bee": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Hat": {
-      "value": "",
-      "demand": "HIGH",
-      "season": "Season 4",
-      "set": "Rainbow"
-    },
-    "Rainbow Hat": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Crown": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Headband": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Iridescent Wig": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Pride Sword": {
-      "value": "",
+      "value": "6b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Iris Wand": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Prismatic Staff": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Pickaxe": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "4b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Axe": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Bi The Sea": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Peace Shield": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Parrot": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Teddy Bear": {
-      "value": "",
+      "value": "10b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "Rainbow Ostrish": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "5b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Rainbow"
     },
     "PARTY Helmet": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Balloon Hat": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Bottle Hat": {
-      "value": "",
-      "demand": "HIGH",
-      "season": "Season 4",
-      "set": "Party"
-    },
-    "PARTYr Bottle Hat": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "LOW",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Sword": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Confetti Blaster": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Pickaxe": {
-      "value": "",
+      "value": "4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Axe": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Shovel": {
-      "value": "",
-      "demand": "HIGH",
+      "value": "2b",
+      "demand": "LOW",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Balloons": {
-      "value": "",
+      "value": "0.1b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Jukebox": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Blower": {
-      "value": "",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Lights": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Chicken Pinata": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Cow Pinata": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "PARTY Donkey Pinata": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "Party Ribbon #1": {
-      "value": "",
+      "value": "1b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "Party Ribbon #2": {
-      "value": "",
+      "value": "1b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
     },
     "Party Ribbon #3": {
-      "value": "",
+      "value": "1b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Party"
