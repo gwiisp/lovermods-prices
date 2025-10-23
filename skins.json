@@ -6636,6 +6636,12 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "VIP"
+    },
+    "** Backpack **": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "VIP and Arcade"
     }
   }
 }
