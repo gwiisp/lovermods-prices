@@ -1454,37 +1454,37 @@
       "set": "Halloween"
     },
     "Boo-Berry Punch": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Drink Vendor"
     },
     "Haunt Chocolate": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Drink Vendor"
     },
     "Creepy-Crawly Fizz": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Drink Vendor"
     },
     "Pumpkin Spice Latte": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Drink Vendor"
     },
     "Apple Cider": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Drink Vendor"
     },
     "Bat Wing Shake": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Drink Vendor"
@@ -1556,25 +1556,25 @@
       "set": "Halloween Food Seller"
     },
     "Dragonfly Sushi": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Food Seller"
     },
     "Spider Candy Apple": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Food Seller"
     },
     "Eye Candy Apple": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Food Seller"
     },
     "Bat Candy Apple": {
-      "value": "",
+      "value": "N/A",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Halloween Food Seller"
@@ -7212,6 +7212,222 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Spring Time NPC"
+    },
+    "HEROIC MINOTAUR AXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "MIRROR MAIDEN'S SHIELD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "SELKIE ROD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "CHIMERA BOW": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "SLIME HOE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "KITSUNE SHOVEL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "MINOTAUR'S GREAT AXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "MOTHMAN BUDDY": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "FAE SHROOM BLADE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "WISH SPIRIT ANTLERS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "GORGON'S GAZE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures"
+    },
+    "CentaurFella": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "MerHana": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Red Dragon Chair": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Red Dragon Couch": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Red Dragon Lamp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Black Dragon Chair": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Black Dragon Couch": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Black Dragon Lamp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Blue Dragon Chair": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Blue Dragon Couch": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Blue Dragon Lamp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "White Dragon Chair": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "White Dragon Couch": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "White Dragon Lamp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Dragon Scale Chair": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Dragon Scale Table": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Dragon Scale Side Table": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Dragon Scale Frame": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Cerberus Plush": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Baba Yaga's Hut": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Kasa-obake": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Phoenix Egg": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Fairy in a Bottle": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Dragon's Hoard": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
+    },
+    "Gnome": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mythical Creatures NPC"
     }
   }
 }
