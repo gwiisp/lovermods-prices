@@ -7945,7 +7945,7 @@
       "season": "Season 6",
       "set": "Water"
     },
-    "WHIRLPOOL SHIELD": {
+    "WHIRPOOL SHIELD": {
       "value": "",
       "demand": "HIGH",
       "season": "Season 6",
@@ -7956,6 +7956,114 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Water"
+    },
+    "APPLE CRATE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "COW AIRTURBINE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "SHEEP AIRTURBINE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "PIG AIRTURBINE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "FISH STAND": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "TRACTOR": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "STACK OF GRAIN SHIELD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "GOLD CORN SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "SALAKOT HELMET": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "CHICKEN COOP": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "WATER WHEEL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "SMALL SOLAR PANEL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "BIG SOLAR PANEL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "WATER WELL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "ASSORTED FRUITS CRATE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "DAIKON CRATE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "CARROT CRATE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
+    },
+    "WATERMELON CRATE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Hunger"
     }
   }
 }
