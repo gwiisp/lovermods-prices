@@ -7662,6 +7662,126 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Mer-May NPC"
+    },
+    "Bamboo Vase": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Black and red Anime Poster": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Bonsai tree": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Chair": {
+      "value": "(2 skins with same name)",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Dango Plushie": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Daruma": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Floor Lamp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Folding Screen": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Kimono": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Lower Table": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Mountain Painting": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Ofuro": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Screen": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Table": {
+      "value": "(multiple skins with the same name)",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Tall Lamp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Tea Set": {
+      "value": "(Multiple skins with same name)",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Teru Teru Bozu": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Totoro Anime Poster": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Woman Painting": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
+    },
+    "Zabuton": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6 and Season 7",
+      "set": "Decoration NPC"
     }
   }
 }
