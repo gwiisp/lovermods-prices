@@ -7896,6 +7896,66 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Dementia"
+    },
+    "TIDAL WAVE SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
+    },
+    "BERRY WATER BOTTLE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
+    },
+    "GLASS WATER BOTTLE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
+    },
+    "WATER BOTTLE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
+    },
+    "RED WELL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
+    },
+    "BLUE WELL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
+    },
+    "VASE WATER FOUNTAIN": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
+    },
+    "WATER DROPLET PLUSH": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
+    },
+    "WHIRLPOOL SHIELD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
+    },
+    "INFUSED WATER BOTTLE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Water"
     }
   }
 }
