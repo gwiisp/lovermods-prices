@@ -7782,6 +7782,120 @@
       "demand": "HIGH",
       "season": "Season 6 and Season 7",
       "set": "Decoration NPC"
+    },
+    "ChestShop Sign": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sign"
+    },
+    "Zombie Grinder Sign": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sign"
+    },
+    "Blaze Grinder Sign": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sign"
+    },
+    "Drowned Grinder Sign": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sign"
+    },
+    "Skeleton Grinder Sign": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sign"
+    },
+    "Magma Grinder Sign": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Sign"
+    },
+    "HANGING POT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "HANGING FLOWERS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "HANGING BUTTERFLY FLOWER": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "FLOWERS BROWN POT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "FLOWERS BLUE POT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "COFFEE CAN FLOWERS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "WATERING CAN FLOWERS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "GROUP OF BUTTERFLIES": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "CRYSTAL BOW": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "CRYSTAL ROD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "CRYSTAL SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "MYSTICAL BUTTERFLY BUDDY": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
+    },
+    "MYSTICAL FAIRY WINGS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Dementia"
     }
   }
 }
