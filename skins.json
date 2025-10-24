@@ -1123,6 +1123,12 @@
       "season": "Season 4",
       "set": "Party"
     },
+    "PARTYr Helmet": {
+      "value": "3b",
+      "demand": "MEDIUM",
+      "season": "Season 4",
+      "set": "Party"
+    },
     "PARTY Balloon Hat": {
       "value": "4b",
       "demand": "HIGH",
