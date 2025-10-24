@@ -7428,6 +7428,240 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Mythical Creatures NPC"
+    },
+    "HEROIC MERMAID FINS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "SALLY'S SEASHELL ROD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "KRAKEN'S BOW": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "OCEANIC SHOVEL": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "OCEANIC HOE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "OCEANIC AXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "OCEANIC PICKAXE": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "OCEANIC SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "MERMAID FINS": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "ROYAL SEA CROWN": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May"
+    },
+    "AquaFella": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "AquaAyi": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mer-Bed": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mer-Vanity": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mer-Sofa": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mer-Wardrobe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mer-Table": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mer-Lamp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mer-Tub": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mer-Rug": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Framed Shark teeth": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mermaid Statue": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Mermaid Shelf": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Magic Mer-cake": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Sea Fizz Soda": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Crab legs": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Candy Kelp": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Shark attack cheesecake": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Oyster Macarons": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Coral Decor (Purple)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Coral Decor (Pink)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Coral Decor (Red)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Coral Decor (Green)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Coral Decor (Aqua)": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Jellyfish Umbrella": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Pink Hanging Jellyfish": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Purple Hanging Jellyfish": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Blue Hanging Jellyfish": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
+    },
+    "Jellyfish wall decor": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Mer-May NPC"
     }
   }
 }
