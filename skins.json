@@ -8208,6 +8208,54 @@
       "demand": "HIGH",
       "season": "Season 6",
       "set": "Doctors Without Borders"
+    },
+    "Warden Shield": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Warden"
+    },
+    "Warden Shovel": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Warden"
+    },
+    "Warden Fishing Rod": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Warden"
+    },
+    "Warden Hoe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Warden"
+    },
+    "Warden Bow": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Warden"
+    },
+    "Warden Axe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Warden"
+    },
+    "Warden Pickaxe": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Warden"
+    },
+    "Warden Sword": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 6",
+      "set": "Warden"
     }
   }
 }
