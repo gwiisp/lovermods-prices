@@ -97,7 +97,25 @@
       "season": "Season 3",
       "set": "Spicy"
     },
-    "EASTER Hat": {
+    "EASTERr Hat": {
+      "value": "5b",
+      "demand": "HIGH",
+      "season": "Season 3",
+      "set": "Easter"
+    },
+    "EASTERr Bunny Ears": {
+      "value": "4b",
+      "demand": "HIGH",
+      "season": "Season 3",
+      "set": "Easter"
+    },
+    "EASTERr Sword": {
+      "value": "3b",
+      "demand": "HIGH",
+      "season": "Season 3",
+      "set": "Easter"
+    },
+      "EASTER Hat": {
       "value": "5b",
       "demand": "HIGH",
       "season": "Season 3",
