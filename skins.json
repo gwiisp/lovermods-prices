@@ -8364,6 +8364,12 @@
       "demand": "UNKNOWN",
       "season": "Season 7",
       "set": "July 4th"
+    },
+    "Merch Mug": {
+      "value": "1m ☠️",
+      "demand": "LOW",
+      "season": "Season 8",
+      "set": "ZiggyBear"
     }
   }
 }
