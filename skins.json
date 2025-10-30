@@ -8366,22 +8366,22 @@
       "set": "July 4th"
     },
     "Merch Mug": {
-      "value": "1m ☠️",
+      "value": "N/A",
       "demand": "LOW",
       "season": "Season 8",
-      "set": "ZiggyBear"
+      "set": "Merch 1/1's"
     },
     "Beanie (Green)": {
-      "value": "-100b 💀",
+      "value": "N/A",
       "demand": "LOW",
       "season": "Season 8",
-      "set": "SnivvyAhhBoi"
+      "set": "Merch 1/1's"
     },
     "Beanie (Black)": {
-      "value": "5.5t",
-      "demand": "HIGH AS FUCK",
+      "value": "N/A",
+      "demand": "LOW",
       "season": "Season 8",
-      "set": "sspyker"
+      "set": "Merch 1/1's"
     }
   }
 }
