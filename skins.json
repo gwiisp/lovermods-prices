@@ -416,13 +416,13 @@
       "set": "VIP"
     },
     "VIP Plaque": {
-      "value": "3b",
+      "value": "5~b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
     },
     "VIP Panda": {
-      "value": "3b",
+      "value": "5~b",
       "demand": "HIGH",
       "season": "Season 3",
       "set": "VIP"
