@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "title": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "image": "https://i.imgur.com/example1.png",
+      "link": "https://github.com/gwiisp/LoverMods/releases"
+    },
+    {
+      "title": "PLACEHOLDER 2",
+      "description": "PLACEHOLDER",
+      "image": "https://i.imgur.com/example2.png",
+      "link": "https://discord.gg/4nG3fRAKfG"
+    },
+    {
+      "title": "PLACEHOLDER 3",
+      "description": "PLACEHOLDER",
+      "image": "https://i.imgur.com/example3.png",
+      "link": ""
+    }
+  ]
+}
