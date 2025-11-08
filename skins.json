@@ -668,31 +668,31 @@
       "set": "Holiday"
     },
     "Love is Greatsword": {
-      "value": "",
+      "value": "10b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
     },
     "Cupid's Bow": {
-      "value": "",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
     },
     "Box o' Chocolates": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
     },
     "Bunch o' Roses": {
-      "value": "",
+      "value": "2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
     },
     "Love Potion": {
-      "value": "",
+      "value": "1-2b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Valentines"
@@ -704,7 +704,7 @@
       "set": "St. Patrick's"
     },
     "Shamrock Shades": {
-      "value": "4b",
+      "value": "3b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
@@ -716,7 +716,7 @@
       "set": "St. Patrick's"
     },
     "Rainbow Sword": {
-      "value": "7b",
+      "value": "5b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "St. Patrick's"
