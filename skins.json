@@ -1268,8 +1268,8 @@
       "set": "Summer"
     },
     "Burger Axe": {
-      "value": "5b",
-      "demand": "HIGH",
+      "value": "3b",
+      "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Summer"
     },
