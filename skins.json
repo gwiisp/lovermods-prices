@@ -8400,6 +8400,522 @@
       "demand": "LOW",
       "season": "Season 8",
       "set": "Merch 1/1's"
+    }.
+    "Office World Map": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Plant": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Pens": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Pictures": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Notepad": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Lamp": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Desk": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Globe": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Chair": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Desk Angle": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Calendar": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Carpet": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Book": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Office Book Open": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "DRIFTWOOD HELMET": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "DRIFTWOOD SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "DRIFTWOOD AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "DRIFTWOOD SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "DRIFTWOOD PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Driftwood"
+    },
+    "Tub Small": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Tub Large": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Towel Rack": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Toilet Paper Holder": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Toilet": {
+      "value": "2 same names from same set though",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Mirror Wall": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Mirror Wall Wide": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Mirror Standing": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Bathroom Stool": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Bathroom Sink": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Bathroom Plant": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "Bathroom Cabinet": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT SHOVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SPOTLIGHT SERPENT SPINE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT LEGGINGS": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT BOOTS": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT CHESTPLATE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "SEA SERPENT HELMET": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Sea Serpent"
+    },
+    "❧ Divine Pillar ❧": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal and Poseidon"
+    },
+    "❧ Rustic Pillar ❧": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal and Flying Dutchman"
+    },
+    "❧ Regal Pillar ❧": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Poseidon"
+    },
+    "PC": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "Monitor": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "Chair": {
+      "value": "2 skins with same name",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "Controller": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "TV": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "PSV": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "NX Stand": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "NX": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "Microphone": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "Keyboard Mouse": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "Headphone Stand": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "Zbox": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSSAL HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSSAL BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSSAL HELMET": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSS AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSS SHOVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSS PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSS SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSSAL BOOTS": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSSAL LEGGINGS": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSSAL CHESTPLATE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "ABYSSAL LANTERN": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Abyssal"
+    },
+    "❧ Gothic Pillar ❧": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "Wine": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "Wall Lantern": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "Café Table": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "Café Chair": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "Menu Board": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "Coffee": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "Awning": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "FLYING DUTCHMAN BOOTS": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "FLYING DUTCHMAN LEGGINGS": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "FLYING DUTCHMAN CHESTPLATE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "FLYING DUTCHMAN AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "FLYING DUTCHMAN CROSSBOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "DUTCHMAN SHOVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "DUTCHMAN HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "DUTCHMAN PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "DUTCHMAN SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
+    },
+    "DUTCHMAN HELMET": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Flying Dutchman"
     }
   }
 }
