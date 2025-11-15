@@ -8916,6 +8916,102 @@
       "demand": "UNKNOWN",
       "season": "Season 7",
       "set": "Flying Dutchman"
+    },
+    "CARDBOARD ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "CARDBOARD BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "CARDBOARD SHOVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "CARDBOARD AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "CARDBOARD PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "CARDBOARD SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "SPOTLIGHT PROP SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "TAN FELINE FINERIES": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "PINK FELINE FINERIES": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "WHITE FELINE FINERIES": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "BLACK FELINE FINERIES": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "KATIE KATT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "YELLOW FEATHERERD BOA": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "PURPLE FEATHERERD BOA": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet"
+    },
+    "LoverFella Bubblehead": {
+      "value": "Many skins with the same name",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Ayihana Bubblehead": {
+      "value": "Many skins with the same name",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
     }
   }
 }
