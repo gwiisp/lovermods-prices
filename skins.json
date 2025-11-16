@@ -1191,7 +1191,7 @@
     },
     "PARTY Balloons": {
       "value": "0.1b",
-      "demand": "HIGH",
+      "demand": "LOW",
       "season": "Season 4",
       "set": "Party"
     },
