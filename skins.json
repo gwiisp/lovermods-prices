@@ -716,8 +716,8 @@
       "set": "St. Patrick's"
     },
     "Rainbow Sword": {
-      "value": "5b",
-      "demand": "HIGH",
+      "value": "3-4b",
+      "demand": "LOW",
       "season": "Season 4",
       "set": "St. Patrick's"
     },
