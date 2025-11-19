@@ -1957,13 +1957,13 @@
       "season": "Season 5",
       "set": "Silver"
     },
-    "Vines (Red Buds)": {
+    "Vine (Red Buds)": {
       "value": "",
       "demand": "UNKNOWN",
       "season": "Season 5",
       "set": "Silver"
     },
-    "Vines (Blue Buds)": {
+    "Vine (Blue Buds)": {
       "value": "",
       "demand": "UNKNOWN",
       "season": "Season 5",
@@ -4580,6 +4580,12 @@
       "set": "Aquarium NPC"
     },
     "Goldfish Tank": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 5",
+      "set": "Aquarium NPC"
+    },
+    "Snails": {
       "value": "",
       "demand": "UNKNOWN",
       "season": "Season 5",
