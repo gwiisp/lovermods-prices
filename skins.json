@@ -9024,6 +9024,846 @@
       "demand": "UNKNOWN",
       "season": "Season 7",
       "set": "Prop Closet NPC"
+    },
+    "Lover Speaks": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Red Rope": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Costume Rack": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Curtain": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Tea Set": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Sushi": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Sandwich": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Telephone Cardboard": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Pop Camera": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Backdrop House": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Backdrop Cafe": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "Backdrop Shop": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Prop Closet NPC"
+    },
+    "PINEAPPLE AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "FLORAL SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "TROPICAL SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "SEA SHELLVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "OCTO-BUDDY PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "ANGLERFISH ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "HULA SKIRT WITH FLOWERS": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "FLOWER LEI RED": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "FLOWER LEI BLUE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "CRAB BUDDY": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "SUN BLOCKER": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "FLOWER LEI WHITE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "HULA SKIRT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "SPOTLIGHT OCTOBUDDY PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer"
+    },
+    "BBQ LoverFella": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer NPC"
+    },
+    "Lounging Ayihana": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer NPC"
+    },
+    "Sun Lounger": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer NPC"
+    },
+    "Plate of Burger": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer NPC"
+    },
+    "Radio": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer NPC"
+    },
+    "Big Tiki Torch": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer NPC"
+    },
+    "Tiki Torch": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Tropical Summer NPC"
+    },
+    "CELESTIAL HEADPIECE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "ZODIAC CROWN": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "GEMINI TWIN BLADES": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "ARIES AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "LIBRA PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "TAURUS SHOVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "PISCES HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "VIRGO SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "AQUARIUS ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "SAGGITARIUS BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "SPOTLIGHT GEMINI TWIN BLADES": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac"
+    },
+    "Celestial Loverfella": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Celestial Ayihana": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Giant Paper Stars": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Star Table": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Star Chair": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Moon Couch": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Moon Chair": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Sagittarius Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Virgo Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Aries Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Scorpio Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Capricorn Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Pisces Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Gemini Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Aquarius Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Taurus Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Leo Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Cancer Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Libra Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Gemini Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Taurus Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Aries Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Capricorn Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Aquarius Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Pisces Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Leo Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Libra Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Virgo Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Scorpio Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Sagittarius Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "Cancer Symbol": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Zodiac NPC"
+    },
+    "SPOTLIGHT PEN HAT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School"
+    },
+    "CRAYON PICKAXE": {
+      "value": "(Multile different colors)",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Back 2 School"
+    },
+    "SHARPNER HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School"
+    },
+    "CHALK SHOVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School"
+    },
+    "PENCIL TOPPER": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School"
+    },
+    "SWORD MARKER": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School"
+    },
+    "GLITTER PEN": {
+      "value": "(Multiple different colors)",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Back 2 School"
+    },
+    "CRAYON HAT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School"
+    },
+    "SCHOOL HAT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School"
+    },
+    "Principal Loverfella": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School NPC"
+    },
+    "Teacher Ayihana": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School NPC"
+    },
+    "Homework Tray": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School NPC"
+    },
+    "Whiteboard": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Back 2 School NPC"
+    },
+    "WEREWOLF MASK": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "SKELETON MASK": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "WITCH MASK": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "JACK-O-MASK": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "CHARON'S STAFF": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "SCARECROW PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "SPECTRAL CHAINSAW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "PUMPKIN SHOVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "SKELETON HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "DRACULA'S STAKE ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "PUMPKIN BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "FABLED GRIMOIRE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "FRANKENSTEIN MASK": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "ZOMBIE MASK": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "GHOST MASK": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "CANDY BUCKET HELMET": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories"
+    },
+    "Ghost Fella": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Ghost Ayi": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Ghostly Zach Statue": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Ghostly Ayi Statue": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Hand Tomb": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Shadow Tomb": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Cat Tomb": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Orange Cauldron": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Pink Cauldron": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Casket": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Haunted Window": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Killah Candles": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Jack-O Potion": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Zombie Puppy": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Ghost Buddy": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Witch Cauldron Bucket": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Candy Basket": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Pumpkin Candy Basket": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Ghost Candy Basket": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Boo Candy Basket": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Pumpkin Painting": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Pumpkin Patch Painting": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Happy Pumpkin Cat": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Sad Pumpkin Cat": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Angry Pumpkin Cat": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Pumpkin Cat": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Pumpkin Bat": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Neon Pumpkin Rug": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Candy Rug": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Cats-n-Stuff Rug": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Boo! Rug": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Trick-or-Treat Rug": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Calico Cat on Pumpkin": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Persian Cat on Pumpkin": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Black Cat on Pumpkin": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
+    },
+    "Tabby Cat on Pumpkin": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Scary Stories NPC"
     }
   }
 }
