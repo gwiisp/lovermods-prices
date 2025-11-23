@@ -9864,6 +9864,708 @@
       "demand": "UNKNOWN",
       "season": "Season 7",
       "set": "Scary Stories NPC"
+    },
+    "NANITE SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "DATA STAFF": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "KYZEN AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "KYZEN SHOVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "KYZEN HAMMER": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "NANITE PICK": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "CHAKRAN SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "GAUNLET": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "WIELDING AXE RIGHT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "WIELDING AXE LEFT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Project Kyzen"
+    },
+    "ACORN HAT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "GNOME HAT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "CHIPMUNK BUDDY": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "PUMPKIN KTTY": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "FALL HARVEST SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "PUMPKIN PIE AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "CAKE POP PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "SPICED TEASPOON SHOVEL": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "RED PANDA HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "PUMPKIN SPICE COOKIE SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "PUMPKIN SPICE ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "SQUIRREL BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "SPOTLIGHT FALL HARVEST SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "SPOTLIGHT PUMPKIN SPICE ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice"
+    },
+    "Gnome 1": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Gnome 2": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Gnome 3": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Pumpkin Pie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Fall Sign 1": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Fall Sign 2": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Fall Lamp": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Turkey Plushie": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Fall Painting": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Fall Mat": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "Cooked Turkey": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Pumpkin Spice & Everything Nice NPC"
+    },
+    "SPOTLIGHT NAUGHTY SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "TOY NERF BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "CHUCK'S FISHING ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "UNWRAPPED HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "NAUGHTY LIST SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "BURNING COAL PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "CHRISTMAS TREE SWORD": {
+      "value": "(same name as another skin)",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "RUGGED WINTER SCARF": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "SKELETON REINDEER ANTLERS": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "REINDEER EARMUFFS": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "NUTCRACKER BUDDY": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty"
+    },
+    "SPOTLIGHT NICE SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "TOY TRAIN ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "REINDEER ANTLERS": {
+      "value": "(same name as another)",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "SANTA'S SLEIGH CROSSBOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "SANTA'S WORKSHOP SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "CANDY CANE HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "NORTH POLE PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "SANTA'S HAT WITH BEARD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "SANTA'S ELF BUDDY": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "GINGERBREAD MAN AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Nice"
+    },
+    "Wreath": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty or Nice NPC"
+    },
+    "Candy Cane Fence": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty or Nice NPC"
+    },
+    "Santa Pillow": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty or Nice NPC"
+    },
+    "Christmas Tree Pillow": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty or Nice NPC"
+    },
+    "Christmas Lights": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty or Nice NPC"
+    },
+    "Big Comfy Chair": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Naughty or Nice NPC"
+    },
+    "SPOTLIGHT CELEBRATION TOP HAT": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "FIREWORK ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "GLOWSTICK HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "NEON CROSSBOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "SPARKLER BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "COUNTDOWN CLOCK": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "FIRECRACKER PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "PARTY POPPER AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "2025 BALLOON SWORD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "NEW YEAR'S TOP HAT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "CONFETTI CROWN": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "GOLD PARTY HAT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration"
+    },
+    "SPOTLIGHT FRESH START SWORD": {
+      "value": "",
+      "demand": "HIGH",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "GARDEN SCYTHE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "ROD OF TRANQUILITY": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "PINEWOOD CROSSBOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "BAMBOO BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "GOLDEN SUNRISE SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "FRESH WATERMELON PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "BIRCHWOOD AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "SIMPLE WHITE BEANIE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "GREEN LEAF HEADBAND": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "SILVER LAUREL CROWN": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Fresh Start"
+    },
+    "Ayihana New Year's Chibi": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration & Fresh Start NPC"
+    },
+    "LoverFella New Year's Chibi": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "Hanging Paper": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "Gold Fringe": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "Apple Cider Bottle": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "Apple Cider Glass": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "Hive Balloon": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "2025 Balloon": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "2025 Hive Balloon": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "Mustache Balloon": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "Striped Balloon": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Celebration and Fresh Start NPC"
+    },
+    "SPOTLIGHT CUPID'S BLADE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "LOVE LETTER SHIELD": {
+      "value": "(spotlight)",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "CUPID BUDDY": {
+      "value": "(spotlight)",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "CHOCOLATE HEART ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "TEDDY BEAR CROSSBOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "CUPID'S BOW": {
+      "value": "(2 skins with same name)",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "ROSE STEM HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "BOX OF CHOCOLATE SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "HEART SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "CHOCOLATE BAR PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "LOVE LOLIPOP": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "SWEETHEART SABER": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "CUPID'S BLADE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "LOVE BUG HAT": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "VALENTINE'S HEADBAND": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "HEART TIARA": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air"
+    },
+    "Valentine's Chibi LoverFella": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air NPC"
+    },
+    "Valentine's Chibi Ayihana": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air NPC"
+    },
+    "Heart Carpet": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air NPC"
+    },
+    "Heart Arrow Carpet": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air NPC"
+    },
+    "Love Poster": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Love Is In The Air NPC"
     }
   }
 }
