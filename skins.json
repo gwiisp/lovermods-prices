@@ -9583,7 +9583,7 @@
       "season": "Season 7",
       "set": "Scary Stories"
     },
-    "SCARECROW PICKAXE": {
+    "SACRECROW PICKAXE": {
       "value": "",
       "demand": "UNKNOWN",
       "season": "Season 7",
@@ -10566,6 +10566,144 @@
       "demand": "UNKNOWN",
       "season": "Season 7",
       "set": "Love Is In The Air NPC"
+    },
+    "SPOTLIGHT CLOVER AXE": {
+      "value": "",
+      "demand": "MEDIUM",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "SPOTLIGHT GNOME BUDDY": {
+      "value": "",
+      "demand": "LOW",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "LEFT-HANDED TWIN SABER": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "RIGHT-HANDED TWIN SABER": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "POT O' GOLD BOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "CELTIC RUNE CROSSBOW": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "LUCKY CHARM FISHING ROD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "SHAMROCK GUARDIAN SHIELD": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "CLOVER HOE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "GOLD VEIN AXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "EMERALD CORE PICKAXE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "LEPRECHAUN LUCK BLADE": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "PRISM HALO": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "LEPRECHAUN HAT": {
+      "value": "(2 skins with the same name)",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "FOUR-LEAF VISOR": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck"
+    },
+    "Gnome LoverFella": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck NPC"
+    },
+    "Gnome Ayihana": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck NPC"
+    },
+    "Treasure Chest": {
+      "value": "(@ skins with the same name)",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck NPC"
+    },
+    "Pot of Gold": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck NPC"
+    },
+    "Runic Pedestal": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck NPC"
+    },
+    "Golden Clover Carpet": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck NPC"
+    },
+    "Gnome House": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck NPC"
+    },
+    "Lucky Clover Chandalier": {
+      "value": "",
+      "demand": "UNKNOWN",
+      "season": "Season 7",
+      "set": "Wish Me Luck NPC"
     }
   }
 }
