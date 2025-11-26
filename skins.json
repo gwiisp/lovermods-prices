@@ -1262,7 +1262,7 @@
       "set": "Summer"
     },
     "French Fry Sword": {
-      "value": "5b",
+      "value": "3-4b",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Summer"
@@ -1334,13 +1334,13 @@
       "set": "Ancient"
     },
     "Staff of Uset": {
-      "value": "4",
+      "value": "4b",
       "demand": "MEDIUM",
       "season": "Season 4",
       "set": "Ancient"
     },
     "Heru's Dagger": {
-      "value": "8b",
+      "value": "",
       "demand": "HIGH",
       "season": "Season 4",
       "set": "Ancient"
